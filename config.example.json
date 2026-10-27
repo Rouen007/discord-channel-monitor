@@ -1,0 +1,14 @@
+{
+  "token": "你的 Discord User Token",
+  "channel_id": "",
+  "channel_ids": "",
+  "filter_keyword": "",
+  "only_market_hours": true,
+  "opacity": 0.92,
+  "theme": "dark",
+  "fixed_expanded": false,
+  "width": 380,
+  "height": 620,
+  "source_filter": "ALL",
+  "stance_filter": "ALL"
+}

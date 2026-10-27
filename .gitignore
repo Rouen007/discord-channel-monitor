@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Local User Config & Secrets
+*config.json
+.env
+.env.*
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*history_cache.json
+token.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files & logs
+*.log
+/tmp/
+
+# App build artifacts
+build/
+dist/
